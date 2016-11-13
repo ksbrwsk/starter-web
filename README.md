@@ -12,3 +12,5 @@ The website can be deployed on any webserver or
 even the local filesystem.
 
 ## Contribute
+
+Feel free to contribute.
