@@ -21,4 +21,4 @@ Please fork this repository and contribute.
 do what ever you want.
 
 
-Copyright 2016 ksbrwsk
+Copyright 2016 ksbrwsk, all rights reserved.
