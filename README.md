@@ -18,3 +18,6 @@ Feel free to contribute.
 ## License
 
 do what ever you want.
+
+
+Copyright 2016 ksbrwsk
