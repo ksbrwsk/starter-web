@@ -13,7 +13,7 @@ even the local filesystem.
 
 ## Contribute
 
-Feel free to contribute.
+Please fork this repository and contribute.
 
 ## License
 
