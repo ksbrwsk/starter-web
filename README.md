@@ -14,3 +14,5 @@ even the local filesystem.
 ## Contribute
 
 Feel free to contribute.
+
+## License
